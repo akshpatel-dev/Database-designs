@@ -27,7 +27,8 @@ Below is a list of available ER diagrams with quick access links:
 
 | 📌 System Name              | 📖 Description                                            | 🔗 Diagram Link   |
 | --------------------------- | --------------------------------------------------------- | ----------------- |
-| Thrift & Handmade Store     | Instagram-based store handling thrift & handmade products | [View] () |
+| Thrift & Handmade Store     | Instagram-based store handling thrift & handmade products | [View Diagram on Eraser](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB?origin=share)
+ |
 
 
 
