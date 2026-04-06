@@ -11,7 +11,7 @@ This repository contains a collection of **Entity-Relationship (ER) diagrams** d
 Each ER diagram in this repository represents a different use case, such as:
 
 * E-commerce systems
-* And more...
+* And Upcoming more...
 
 These diagrams focus on:
 
