@@ -11,6 +11,7 @@ This repository contains a collection of **Entity-Relationship (ER) diagrams** d
 Each ER diagram in this repository represents a different use case, such as:
 
 * E-commerce systems
+* Online Fitness Coaching Platform
 * And Upcoming more...
 
 These diagrams focus on:
@@ -25,11 +26,10 @@ These diagrams focus on:
 
 Below is a list of available ER diagrams with quick access links:
 
-| 📌 System Name              | 📖 Description                                            | 🔗 Diagram Link   |
-| --------------------------- | --------------------------------------------------------- | ----------------- |
-| Thrift & Handmade Store     | Instagram-based store handling thrift & handmade products | [View Diagram on Eraser](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB?origin=share)
- |
-
+| 📌 System Name                   | 📖 Description                                                                          | 🔗 Diagram Link        |
+| -------------------------------- | --------------------------------------------------------------------------------------- | ---------------------- |
+| Thrift & Handmade Store          | Instagram-based store handling thrift & handmade products                               | [View Diagram on Eraser](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB?origin=share) |
+| Online Fitness Coaching Platform | Platform for trainers to manage clients, subscriptions, sessions, and progress tracking | [View Diagram on Eraser](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB?origin=share)           |
 
 
 ---
