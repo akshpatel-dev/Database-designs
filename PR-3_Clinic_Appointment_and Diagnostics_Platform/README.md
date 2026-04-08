@@ -80,6 +80,15 @@ Patient → Appointment → Consultation → Tests → Reports → Payment
   * Removes ambiguity in billing
 
 ---
+## 🧩 Whiteboard / ER Diagram Link
+
+You can also view the ER Diagram on the whiteboard:
+
+🔗 **Whiteboard Link:**
+[Open Diagram](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB)
+
+> If the link does not open, please check the README.md(main repo. file) or use the alternative diagram link provided there.
+---
 
 ## 📊 ER Diagram
 
