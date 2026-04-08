@@ -28,8 +28,8 @@ Below is a list of available ER diagrams with quick access links:
 
 | 📌 System Name                   | 📖 Description                                                                          | 🔗 Diagram Link        |
 | -------------------------------- | --------------------------------------------------------------------------------------- | ---------------------- |
-| Thrift & Handmade Store          | Instagram-based store handling thrift & handmade products                               | [View Diagram on Eraser](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB?origin=share) |
-| Online Fitness Coaching Platform | Platform for trainers to manage clients, subscriptions, sessions, and progress tracking | [View Diagram on Eraser](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB?origin=share)           |
+| Thrift & Handmade Store          | Instagram-based store handling thrift & handmade products                               | [View Diagram](https://github.com/akshpatel-dev/Database-designs/blob/main/PR-1_Instagram%20Thrift_Creater_store/Instagram_Thrift_Creator_Store_E-R-Diagram.png) |
+| Online Fitness Coaching Platform | Platform for trainers to manage clients, subscriptions, sessions, and progress tracking | [View Diagram](https://github.com/akshpatel-dev/Database-designs/blob/main/PR-2%20Fitness%20Influencer%20Coaching%20Platform/PR-2_Fitness_influence_pateform.png)          |
 
 
 ---
