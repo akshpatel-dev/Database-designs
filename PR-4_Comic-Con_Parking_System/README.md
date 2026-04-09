@@ -13,6 +13,17 @@ The system is designed to manage:
 * Payment tracking and pricing
 
 ---
+## 🧩 Whiteboard Link
+
+You can view the full ER Diagram on the interactive whiteboard:
+
+🔗 **Comic-Con Parking System Whiteboard:**
+[Open Diagram](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB)
+
+---
+
+> If the link does not open, please use the alternative diagram link provided in the repository.
+
 
 ## 🔄 System Workflow
 
