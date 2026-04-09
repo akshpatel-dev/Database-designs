@@ -13,6 +13,7 @@ Each ER diagram in this repository represents a different use case, such as:
 * E-commerce systems
 * Online Fitness Coaching Platform
 * Clinic Appointment and Diagnostics Platform
+* Comic-Con Parking System
 * And Upcoming more...
 
 These diagrams focus on:
@@ -32,6 +33,7 @@ Below is a list of available ER diagrams with quick access links:
 | Thrift & Handmade Store          | Instagram-based store handling thrift & handmade products                               | [View Diagram](https://github.com/akshpatel-dev/Database-designs/blob/main/PR-1_Instagram%20Thrift_Creater_store/Instagram_Thrift_Creator_Store_E-R-Diagram.png) |
 | Online Fitness Coaching Platform | Platform for trainers to manage clients, subscriptions, sessions, and progress tracking | [View Diagram](https://github.com/akshpatel-dev/Database-designs/blob/main/PR-2%20Fitness%20Influencer%20Coaching%20Platform/PR-2_Fitness_influence_pateform.png) |
 | Clinic Appointment and Diagnostics Platform | Clinic system for managing patients, appointments, consultations, tests, reports, and payments | [View Diagram](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB) |
+Comic-Con Parking System | Multi-zone event parking system for managing vehicles, parking spots, sessions, tickets, payments, and reserved categories (VIP, staff, EV, exhibitors) | [View Diagram](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB) |
 
 ---
 
