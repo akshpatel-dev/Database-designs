@@ -14,6 +14,7 @@ Each ER diagram in this repository represents a different use case, such as:
 * Online Fitness Coaching Platform
 * Clinic Appointment and Diagnostics Platform
 * Comic-Con Parking System
+* Smart elevator System
 * And Upcoming more...
 
 These diagrams focus on:
@@ -34,6 +35,7 @@ Below is a list of available ER diagrams with quick access links:
 | Online Fitness Coaching Platform | Platform for trainers to manage clients, subscriptions, sessions, and progress tracking | [View Diagram](https://github.com/akshpatel-dev/Database-designs/blob/main/PR-2%20Fitness%20Influencer%20Coaching%20Platform/PR-2_Fitness_influence_pateform.png) |
 | Clinic Appointment and Diagnostics Platform | Clinic system for managing patients, appointments, consultations, tests, reports, and payments | [View Diagram](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB) |
 Comic-Con Parking System | Multi-zone event parking system for managing vehicles, parking spots, sessions, tickets, payments, and reserved categories (VIP, staff, EV, exhibitors) | [View Diagram](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB) |
+Smart Elevator System| Multi-building elevator control system for managing buildings, floors, elevators, ride requests, ride assignments, status tracking, and maintenance logs | [View Diagram](https://app.eraser.io/workspace/ymdG9v7XCNUNR81tF8HB) |
 
 ---
 
